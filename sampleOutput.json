@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Democratic senator urges Apple, Google to kick TikTok out of app ... - Reuters",
+            "description": "TikTok, owned by China's ByteDance, should be removed from app stores run by Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> and Alphabet's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)…",
+            "url": "https://www.reuters.com/technology/democratic-senator-urges-apple-google-kick-tiktok-out-app-stores-2023-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/XWI8EGFauPTAS_UeSd0VvR-tIVw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HAIKV6JP4VI3PDU3IQCERWWCAI.jpg",
+            "publishedAt": "2023-02-02T10:03:00Z",
+            "content": "WASHINGTON, Feb 2 (Reuters) - TikTok, owned by China's ByteDance, should be removed from app stores run by Apple Inc (AAPL.O) and Alphabet's (GOOGL.O) Google because the short video social media app … [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Meta surges on cost cut, buyback plans; lifts mega-cap stocks - Reuters",
+            "description": "Shares of Meta Platforms Inc <a href=\"https://www.reuters.com/companies/META.O\" target=\"_blank\">(META.O)</a> soared nearly 20% in premarket trading on Thursday as the Facebook parent wooed investors with plans to rein on costs and a new $40 billion share buyb…",
+            "url": "https://www.reuters.com/technology/meta-surges-cost-cut-buyback-plans-lifts-mega-cap-stocks-2023-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/LKwlUqQzVodoXiMEGmSmL9PJr1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BILPPZJGJ5KZ3ICQDVUQ4FAYFI.jpg",
+            "publishedAt": "2023-02-02T11:02:00Z",
+            "content": "Feb 2 (Reuters) - Shares of Meta Platforms Inc (META.O) soared nearly 20% in premarket trading on Thursday as the Facebook parent wooed investors with plans to rein on costs and a new $40 billion sha… [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Nasdaq futures jump more than 1% on Meta surge, Fed relief - Reuters",
+            "description": "Nasdaq futures jumped on Thursday as Meta Platforms surged after announcing rigorous cost controls, while a dovish message from Federal Reserve Chair Jerome Powell boosted bets of a softer landing for the U.S. economy.",
+            "url": "https://www.reuters.com/markets/us/nasdaq-futures-jump-more-than-1-meta-surge-fed-relief-2023-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/_cOWx7Y_A8NAEf6LbTosIsDsQLs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KK5QJ5QZ7NO4DDMIXXII6CUQNU.jpg",
+            "publishedAt": "2023-02-02T10:43:00Z",
+            "content": "Feb 2 (Reuters) - Nasdaq futures jumped on Thursday as Meta Platforms surged after announcing rigorous cost controls, while a dovish message from Federal Reserve Chair Jerome Powell boosted bets of a… [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Morning Bid: Fed fillip, double trouble, triple A - Reuters",
+            "description": "A look at the day ahead in U.S. and global markets from Mike Dolan.",
+            "url": "https://www.reuters.com/markets/us/global-markets-view-usa-2023-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/hJu8QHrhEAHOgNvudNvujr-byPY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSLOAF6OGBNXTC3MRY5OEGF57Y.jpg",
+            "publishedAt": "2023-02-02T11:01:00Z",
+            "content": "A look at the day ahead in U.S. and global markets from Mike Dolan.\r\nIt looks less like fighting the Fed, than a mild disagreement.\r\nAs the Federal Reserve slowed the pace of its interest rate rates … [+3916 chars]"
+        }
+    ]
+}
